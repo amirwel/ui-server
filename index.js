@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const merge = require('lodash/merge');
 const { join } = require('path');
 
